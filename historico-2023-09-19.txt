@@ -1,0 +1,21 @@
+    1  mkdocs
+    2  apt
+    3  apt > apt.txt
+    4  apt install mkdosc
+    5  sudo apt install mkdocs
+    6  sudo apt update
+    7  sudo apt install mkdocs
+    8  mkdocs
+    9  mkdocs > apt.text
+   10  mkdocs new
+   11  mkdocs new .
+   12  pedra.md
+   13  tesoura.d
+   14  tesoura.md
+   15  mkdocs serve
+   16  mkdocs gh-display
+   17  mkdocs serve
+   18  mkdocs gh-display
+   19  mkdocs 
+   20  mkdocs gh-deploy
+   21  history > historico-2023-09-19.txt
